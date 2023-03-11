@@ -1,10 +1,12 @@
 # PetsUp
 
-<img src="https://ibb.co/7WLksHN"/>
+<img src="https://i.ibb.co/qsVJTzF/petsup-logo.png" alt="petsup-logo">
 
 ## Qualidade de vida pra você e seu pet
 
-###Contexto
+
+
+### Contexto
 
 Nós somos a PetsUp, uma equipe de estudantes de tecnologia desenvolvendo uma solução voltada ao mercado de pets.
 Com a expansão desta área do mercado durante a pandemia e considerando as altas taxas de aderência aos serviços 
@@ -14,6 +16,8 @@ visibilidade com nossa plataforma digital. Nela, é possível cadastrar seu neg�
 Para os clientes, a busca por um pet shop próximo de casa, com preços bons para o bolso e com bom atendimento
 será mais fácil que nunca, bastando alguns cliques para selecionar a loja e realizar seu agendamento!
 
+
+
 ### Tecnologias
 
 Nosso site institucional e versão Web da aplicação utilizam HTML, CSS, JavaScript e ReactJS;
@@ -21,6 +25,8 @@ A versão mobile da aplicação será construída em Kotlin - Android;
 Nossa API utiliza a linguagem Java e o Spring Framework;
 A base de dados está provisionada em um servidor da Microsoft Azure, em SQL Server. A base de backup se encontra
 na AWS, em MySQL.
+
+
 
 ### Equipe
 

@@ -1,6 +1,6 @@
 # PetsUp
 
-<center><img src="https://i.ibb.co/qsVJTzF/petsup-logo.png" alt="petsup-logo"></center>
+<img src="https://i.ibb.co/qsVJTzF/petsup-logo.png" alt="petsup-logo">
 
 ## Qualidade de vida pra você e seu pet
 

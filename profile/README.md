@@ -1,7 +1,7 @@
 # PetsUp
 ## Qualidade de vida pra você e seu pet
 <img src="https://i.ibb.co/qsVJTzF/petsup-logo.png" alt="petsup-logo"/>
-<br><br>
+<br>
 
 ### Contexto
 
@@ -11,16 +11,16 @@ tecnológicos, visamos trazer uma forma de facilitar a gestão de agendamentos d
 visibilidade com nossa plataforma digital. Nela, é possível cadastrar seu negócio como sua própria loja virtual!<br><br>
 
 Para os clientes, a busca por um pet shop próximo de casa, com preços bons para o bolso e com bom atendimento<br>
-será mais fácil que nunca, bastando alguns cliques para selecionar a loja e realizar seu agendamento!<br>
-<br><br>
+será mais fácil que nunca, bastando alguns cliques para selecionar a loja e realizar seu agendamento!<br><br>
+
 ### Tecnologias
 
 Nosso site institucional e versão Web da aplicação utilizam HTML, CSS, JavaScript e ReactJS;<br>
 A versão mobile da aplicação será construída em Kotlin - Android;<br>
 Nossa API utiliza a linguagem Java e o Spring Framework;<br>
-A base de dados está provisionada em um servidor da Microsoft Azure, em SQL Server. A base de backup se encontra
-na AWS, em MySQL.<br>
-<br><br>
+A base de dados está provisionada em um servidor da Microsoft Azure, em SQL Server;<br>
+A base de backup se encontra na AWS, em MySQL.<br><br>
+
 ### Equipe
 
 **DevOps** – Gabriel Nogueira<br>

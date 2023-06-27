@@ -21,11 +21,10 @@ A base de backup se encontra na AWS, em MySQL.<br><br>
 
 ### Equipe
 
-**DevOps** – Gabriel Nogueira<br>
+**DevOps & Dev. Frontend** – Gabriel Nogueira<br>
 **Dev. Backend** – Henrique Beltrão<br>
 **Dev. Fullstack** – Matheus Ferraz<br>
-**Product Owner** – Mauricio Massayuki<br>
-**Dev. Frontend** – William Matos<br>
+**Product Manager & Dev. Fullstack** – Mauricio Massayuki<br>
 
 <!--
 

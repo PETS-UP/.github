@@ -23,7 +23,7 @@ A base de backup se encontra na AWS, em MySQL.<br><br>
 
 **DevOps & Dev. Frontend** – Gabriel Nogueira<br>
 **Dev. Backend** – Henrique Beltrão<br>
-**Dev. Fullstack** – Matheus Ferraz<br>
+**Dev. Backend** – Matheus Ferraz<br>
 **Product Manager & Dev. Fullstack** – Mauricio Massayuki<br>
 
 <!--
